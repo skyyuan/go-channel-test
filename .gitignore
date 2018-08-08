@@ -1,0 +1,4 @@
+.idea
+.gvm_local
+.cache
+*.log
