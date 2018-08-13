@@ -2,3 +2,4 @@
 .gvm_local
 .cache
 *.log
+src/github.com/
